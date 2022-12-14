@@ -2,7 +2,7 @@
 ### Webpack template for a work with TypeScript and ESLint.
 
 ### How to use
- - Clone this repo `https://github.com/rn-moonlight/webpack-basic-ts.git`
+ - `git clone https://github.com/rn-moonlight/webpack-basic-ts.git`
  - `npm install` - install all dependencies
 
 ### How to start
